@@ -1,6 +1,7 @@
 # Signals-and-System-project
 Author - Neha Jauhari
-<br> Signal Filtering and Analysis </br>
+<br> 
+Signal Filtering and Analysis </br>
 <br>
 This repository contains Python code for signal filtering and analysis. 
 The code includes functions to generate filter kernels, perform 
