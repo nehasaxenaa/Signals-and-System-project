@@ -6,7 +6,8 @@ This repository contains Python code for signal filtering and analysis.
 The code includes functions to generate filter kernels, perform 
 convolution, calculate correlation coefficients, and determine the best
 matching filter for an output signal. </br>
-<br> Usage 
+<br> 
+Usage 
 1. Ensure you have Python installed on your system. 
 2. Clone this repository to your local machine. 
 3. Place your input signals in text files named INPUT-SIGNAL
@@ -15,6 +16,7 @@ X(t).txt and OUTPUT-SIGNAL-Y(t).txt.
 5. The script will process the signals, calculate correlation 
 coefficients, and determine the best-matching filter for the 
 output signal. </br>
-<br> Dependencies 
+<br>
+Dependencies </br> <br>
 Numpy 
 Matplotlib </br>
